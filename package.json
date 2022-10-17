@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^9.34.4",
+    "@react-three/fiber": "^8.8.10",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.145.0",
+    "threex.domevents": "^1.0.1",
+    "tone": "^14.7.77"
+  }
+}
